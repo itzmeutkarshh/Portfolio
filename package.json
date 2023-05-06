@@ -4,9 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "node ./bin/www"
+    "start": "node vite.config.js",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
