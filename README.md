@@ -11,7 +11,7 @@
 
 <!-- Badges -->
 <p>
-  <a href="https://github.com/ladunjexa/Threejs_3D_Portfolio/blob/master/LICENSE">
+  <a href="https://github.com/itzmeutkarshh/itzmeutkarsh/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/ladunjexa/Threejs_3D_Portfolio.svg" alt="license" />
   </a>
 </p>
