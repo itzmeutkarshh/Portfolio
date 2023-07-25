@@ -21,23 +21,13 @@
 </div>
 
 <br />
-
-<!-- Table of Contents -->
-<details>
-
-<summary>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-
-
-</details>  
+  
 
 <!-- About the Project -->
 ## :star2: About the Project
 
 <div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
+  <img src="readme_assets/portfolioSS.png" height="auto" width="90%"/>
 </div>
 
 <br />
@@ -74,8 +64,6 @@ Threejs_3D_Portfolio/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-![image](https://github.com/itzmeutkarshh/itzmeutkarsh/assets/100088315/bc6c56ad-2c9b-4c30-8497-4687abadbfe0)
 
 
 <!-- Acknowledgments -->
