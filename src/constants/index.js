@@ -3,7 +3,7 @@ import {
   abhinav,
   aditya,
   mobile,
-  weather,
+  bookstack,
   sneakgeek,
   backend,
   creator,
@@ -132,7 +132,7 @@ const experiences = [
     iconBg: "#383E56",
     date: "Sept 2020 - Present",
     points: [
-      "Java, Python, Cloud Computing, HTML, CSS, JavaScript, MERN, SQL",
+      "Java, Cloud Computing, HTML, CSS, JavaScript, MERN, React",
     ],
   },
   {
@@ -140,30 +140,30 @@ const experiences = [
     _name: "Starbucks",
     icon: certified,
     iconBg: "#E6DEDD",
-    date: "Oct 2021 - Dec 2022",
+    date: "Oct 2021 - Oct 2023",
     points: [
-      "Applied Machine Learning in Python- Coursera " ,"Azure Cloud Computing - Teachnook",
+      "AWS Cloud Practitioner - AWS"," Google Cloud Computing Foundation- Google","Applied Machine Learning in Python- Coursera " ,"Azure Cloud Computing - Teachnook",
     ],
   },
   {
-    title: "Web Developer",
+    title: "Full Stack Developer",
     _name: "Starbucks",
     icon: webdev,
     iconBg: "#383E56",
     date: "Jan 2022 - Jan 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Developing and maintaining web applications using React.js and other related technologies.","Building responsive website front end using React.","Swimming across different tech stacks and developing & maintaining web applications using Node.js and other related technologies.",
       
     ],
   },
   {
-    title: "Full stack Developer",
+    title: "Front-End Web Development Intern",
     _name: "Starbucks",
     icon: full,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "May 2023- July 2023",
     points: [
-      "Upcoming skilled full stack developer." ,"Building responsive website front end using React.","Swimming across different tech stacks and developing & maintaining web applications using Node.js and other related technologies.",
+      "Collaborated with the development team to create responsive and visually appealing homepages for the company. " ,"Gained proficiency and hands-on experience in front-end development technologies, including HTML, CSS, and JavaScript.","Learned the best practices for project management and team work.",
     ],
   },
 ];
@@ -256,9 +256,9 @@ const projects = [
     source_code_link: "https://github.com/itzmeutkarshh/kioku.git",
   },
   {
-    name: "Weather App",
+    name: "bookStack",
     description:
-      "Weather App Using React.js With Current Location & Search City. The app also comes with animated sunrise, sunset,wind and pressure modules. Gives current location with day,date and time",
+      "Created a visually appealing library management website with a user-friendly interface where users can search, see availability of books, add to cart and rent their favourite books",
     tags: [
       {
         name: "html",
@@ -276,9 +276,13 @@ const projects = [
         name: "api",
         color: "pink-text-gradient",
       },
+      {
+        name: "firebase",
+        color: "pink-text-gradient",
+      },
     ],
-    image: weather,
-    source_code_link: "https://github.com/itzmeutkarshh/Weather_App.git",
+    image: bookstack,
+    source_code_link: "https://github.com/itzmeutkarshh/Library-Management-System",
   },
 ];
 

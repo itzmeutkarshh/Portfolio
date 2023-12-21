@@ -41,7 +41,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import sneakgeek from "./sneakgeek.png";
 import kioku from "./kioku.png";
-import weather from "./weather.png";
+import bookstack from "./bookstack.png";
 
 export {
   shristi,
@@ -81,5 +81,5 @@ export {
   tripguide,
   sneakgeek,
   kioku,
-  weather,
+  bookstack,
 };
